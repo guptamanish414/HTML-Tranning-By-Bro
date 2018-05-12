@@ -1,0 +1,26 @@
+/* CSS Document */
+#Body{
+width:100%;
+height:100%;
+}
+#Header{
+background:#FF3366;
+width:100%;
+height:20%;
+position:relative;
+text-align:center;
+}
+#Sidebar{
+background-color:#99FF00;
+width:30%;
+height:80;
+float:left;
+position:relative;
+}
+#Content{
+background:#CCFFCC;
+width:70%;
+height:80%;
+float:right;
+position:relative;
+}
